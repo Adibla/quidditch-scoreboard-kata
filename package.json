@@ -1,0 +1,11 @@
+{
+  "name": "quidditch-scoreboard-kata",
+  "version": "1.0.0",
+  "description": "Resolution quidditch-scoreboard-kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Di Blasi",
+  "license": "ISC"
+}
